@@ -1,12 +1,11 @@
 /* SAP UI5 Icons */
 
-
 @font-face {
-  font-family: 'SAP UI5 Icons Aug 2023';
+  font-family: 'UI5 Icon 2023';
   src:
-    url('https://developer.dma-partners.de/sac_icon_fonts/sap_ui5_icons/ui5_files/SAP-icons.woff2') format('woff2'),
-    url('https://developer.dma-partners.de/sac_icon_fonts/sap_ui5_icons/ui5_files/SAP-icons.woff') format('woff'),
-    url('https://developer.dma-partners.de/sac_icon_fonts/sap_ui5_icons/ui5_files/SAP-icons.ttf') format('truetype');
+    url('https://medma1.github.io/SAP-icons.woff2') format('woff2'),
+    url('https://medma1.github.io/SAP-icons.woff') format('woff'),
+    url('https://medma1.github.io/SAP-icons.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
