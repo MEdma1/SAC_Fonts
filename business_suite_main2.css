@@ -4,7 +4,7 @@
 @font-face {
   font-family: 'SAP Business Suite Icons Sept 2023';
   src:
-    url('https://github.com/SAP/theming-base-content/blob/master/content/Base/baseLib/sap_horizon/fonts/BusinessSuiteInAppSymbols.woff2') format('woff2'),
+    url('https://github.com/SAP/theming-base-content/blob/2a38d0156f3d53fde0301b777f8d856266e70d35/content/Base/baseLib/sap_horizon/fonts/BusinessSuiteInAppSymbols.woff2') format('woff2'),
     url('https://github.com/SAP/theming-base-content/blob/master/content/Base/baseLib/sap_horizon/fonts/BusinessSuiteInAppSymbols.woff') format('woff'),
     url('https://github.com/SAP/theming-base-content/blob/master/content/Base/baseLib/sap_horizon/fonts/BusinessSuiteInAppSymbols.ttf') format('truetype');
   font-weight: normal;
