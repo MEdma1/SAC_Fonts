@@ -4,9 +4,9 @@
 @font-face {
   font-family: 'SAP Business Suite Icons';
   src:
-    url('https://developer.dma-partners.de/sac_icon_fonts/sap_business_suite_icons/business_suite_files/BusinessSuiteInAppSymbols.woff2') format('woff2'),
-    url('https://developer.dma-partners.de/sac_icon_fonts/sap_business_suite_icons/business_suite_files/BusinessSuiteInAppSymbols.woff') format('woff'),
-    url('https://developer.dma-partners.de/sac_icon_fonts/sap_business_suite_icons/business_suite_files/BusinessSuiteInAppSymbols.ttf') format('truetype');
+    url('https://medma1.github.io/SAC_Fonts/BusinessSuiteInAppSymbols.woff2') format('woff2'),
+    url('https://medma1.github.io/SAC_Fonts/BusinessSuiteInAppSymbols.woff') format('woff'),
+    url('https://medma1.github.io/SAC_Fonts/BusinessSuiteInAppSymbols.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
