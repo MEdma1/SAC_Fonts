@@ -1,0 +1,12 @@
+/* SAP Business Suite Icons */
+
+
+@font-face {
+  font-family: 'SAP Business Suite Icons Sept 2023';
+  src:
+    url('https://github.com/SAP/theming-base-content/blob/master/content/Base/baseLib/sap_horizon/fonts/BusinessSuiteInAppSymbols.woff2') format('woff2'),
+    url('https://github.com/SAP/theming-base-content/blob/master/content/Base/baseLib/sap_horizon/fonts/BusinessSuiteInAppSymbols.woff') format('woff'),
+    url('https://github.com/SAP/theming-base-content/blob/master/content/Base/baseLib/sap_horizon/fonts/BusinessSuiteInAppSymbols.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

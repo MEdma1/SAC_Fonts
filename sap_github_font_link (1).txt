@@ -1,0 +1,16 @@
+Actual SAP Link:
+https://experience.sap.com/fiori-design-web/downloads/#download-icon-font
+
+
+Download Info:
+ui5 = SAP-icons
+fiori = SAP-icons-TNT
+business suite = BusinessSuiteInAppSymbols
+
+
+
+
+
+
+
+

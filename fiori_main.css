@@ -1,0 +1,12 @@
+/* SAP Fiori Icons */
+
+
+@font-face {
+  font-family: 'SAP Fiori Icons Nov 2023';
+  src:
+    url('https://github.com/SAP/theming-base-content/blob/master/content/Base/baseLib/sap_horizon/fonts/SAP-icons-TNT.woff2') format('woff2'),
+    url('https://github.com/SAP/theming-base-content/blob/master/content/Base/baseLib/sap_horizon/fonts/SAP-icons-TNT.woff') format('woff'),
+    url('https://github.com/SAP/theming-base-content/blob/master/content/Base/baseLib/sap_horizon/fonts/SAP-icons-TNT.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
