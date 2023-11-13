@@ -3,9 +3,9 @@
 @font-face {
   font-family: 'UI5 Icon 2023';
   src:
-    url('https://medma1.github.io/SAP-icons.woff2') format('woff2'),
-    url('https://medma1.github.io/SAP-icons.woff') format('woff'),
-    url('https://medma1.github.io/SAP-icons.ttf') format('truetype');
+    url('https://medma1.github.io/SAC_Fonts/SAP-icons.woff2') format('woff2'),
+    url('https://medma1.github.io/SAC_Fonts/SAP-icons.woff') format('woff'),
+    url('https://medma1.github.io/SAC_Fonts/SAP-icons.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
